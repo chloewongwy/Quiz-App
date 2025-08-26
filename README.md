@@ -5,7 +5,7 @@ The system calculates and displays the user’s score at the end of the quiz.
 
 ## 📅 Project Info  
 - Developed: April 2025  
-- a **group project** developed for **COMP3421 Web Application Design and Development**
+- A **group project** developed for **COMP3421 Web Application Design and Development**
 
 ---
 
