@@ -78,13 +78,13 @@ Follow these steps to set up and run the project locally:
 Below are some screenshots of the quiz application:
 
 - **Home Page**  
-  ![Home Page]<img width="1904" height="916" alt="image" src="https://github.com/user-attachments/assets/f2c4df47-dda7-4450-afc5-20f9b5070a12" />
+  <img width="1904" height="916" alt="image" src="https://github.com/user-attachments/assets/f2c4df47-dda7-4450-afc5-20f9b5070a12" />
 
 - **Quiz in Progress (with Timer)**  
-  ![Quiz Page]<img width="1903" height="917" alt="image" src="https://github.com/user-attachments/assets/bec0bc85-8bd5-4688-8f2f-449b9960154d" />
+  <img width="1903" height="917" alt="image" src="https://github.com/user-attachments/assets/bec0bc85-8bd5-4688-8f2f-449b9960154d" />
 
 - **Result Page**  
-  ![Result Page]<img width="1905" height="915" alt="image" src="https://github.com/user-attachments/assets/a3c6f12e-dffb-4526-acd0-05e43b168a25" />
+  <img width="1905" height="915" alt="image" src="https://github.com/user-attachments/assets/a3c6f12e-dffb-4526-acd0-05e43b168a25" />
 
 ---
 
